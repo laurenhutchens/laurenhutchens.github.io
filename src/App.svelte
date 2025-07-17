@@ -4,7 +4,7 @@
   let name = "Lauren Hutchens"; // Your name
   let favoriteNumber = 19; // Favorite number
   let bio = "I am an undergrad student studying software development with machine learning!";
-  let hobbies = ["Coding", "Journaling", "watching tv shows & movies"]; // List some hobbies
+  let hobbies = ["Coding", "Journaling", "Watching tv shows & movies"]; // List some hobbies
 
   let cardData = [
   {
